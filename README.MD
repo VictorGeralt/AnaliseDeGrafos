@@ -56,7 +56,7 @@ Grafo Denso: 7 nos
 
  
 
-![Grafo Pequeno](imagens\GrafoPequeno.jpeg)
+![Grafo Pequeno](imagens/GrafoPequeno.jpeg)
 
  
 
