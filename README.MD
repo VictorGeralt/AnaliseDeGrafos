@@ -79,7 +79,7 @@ Grafo Positivo: 150 nos
 Grafo Denso:   150 nos 
 
  
-![Grafo Grande](imagens\GrafoGrande.jpeg)
+![Grafo Grande](imagens/GrafoGrande.jpeg)
 
 
 No caso de um grafo com valores positivos, a análise anterior se mantém, com a diferença de que a eficiência do Dijkstra se aproximou da do Floyd, considerando que o Dijkstra executou um número de vezes igual ao número de arestas no grafo. 
